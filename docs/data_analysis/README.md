@@ -4,7 +4,7 @@
  * @Author: Linxia GONG 巩琳霞 (linxiagong@gmail.com)
  * @Date: 2020-12-14 17:02:59
  * @LastEditors: Linxia GONG 巩琳霞
- * @LastEditTime: 2021-07-22 14:41:59
+ * @LastEditTime: 2021-07-28 14:47:22
 -->
 # The Datasets used in OptMatch
 
@@ -38,7 +38,7 @@ As the datasets are too big, <b>the github repository contains only example data
     - Full data link: [Google Cloud](https://drive.google.com/file/d/1wOiEkrgc0he4rLJHl2HEFuNXIYLVyqbM/view?usp=sharing) or [Baidu Cloud](https://pan.baidu.com/s/1rbkXrl04QyXNbteE8hqHMA) (code: wsqa)
 4. NBA
     - Detail page
-    - Full data link: [2018 season] and [2019 season]
+    - Full data link: [Google](https://drive.google.com/file/d/1U58W3C40hjRIrb8AOmRDhquDmsrQrGhG/view?usp=sharing) and [Baidu Cloud](https://pan.baidu.com/s/1XPFiXw60ZFapLOVgYBcrDQ) (code: mdzm) 
 
 5. Fever Basketball
     - Detail page
